@@ -1,0 +1,18 @@
+#i5{
+    float: left;
+    background-color: burlywood;
+    width: 793px;
+    /* position: absolute;
+    top: 0%;
+    left: 0%; */
+}
+#i7{
+    float: right;
+    background-color: rgb(90, 241, 153);
+    position: absolute;
+    top: 20px;
+    left: 800px;
+}
+div{
+    background-color: cadetblue;
+}
